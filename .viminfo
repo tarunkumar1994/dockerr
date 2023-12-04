@@ -12,9 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1701681498,,"wq!"
+|2,0,1701685497,,"wq!"
 :q!
-|2,0,1701676771,,"q!"
+|2,0,1701685148,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -30,38 +30,176 @@
 |3,1,36,0,1,0,1701677819,"@"
 
 # File marks:
-'0  3  0  ~/web/.gitignore
-|4,48,3,0,1701681498,"~/web/.gitignore"
-'1  4  0  ~/web/Dockerfile
-|4,49,4,0,1701681361,"~/web/Dockerfile"
-'2  3  11  ~/web/Dockerfile
-|4,50,3,11,1701680909,"~/web/Dockerfile"
-'3  3  11  ~/web/Dockerfile
-|4,51,3,11,1701680909,"~/web/Dockerfile"
-'4  2  55  ~/.git/config
-|4,52,2,55,1701678193,"~/.git/config"
-'5  7  55  ~/dockerr/.git/config
-|4,53,7,55,1701678088,"~/dockerr/.git/config"
-'6  7  52  ~/dockerr/.git/config
-|4,54,7,52,1701677619,"~/dockerr/.git/config"
-'7  7  25  ~/.git/config
-|4,55,7,25,1701676771,"~/.git/config"
-'8  7  25  ~/.git/config
-|4,56,7,25,1701676771,"~/.git/config"
+'0  13  25  ~/webgit/catalogue/Dockerfile
+|4,48,13,25,1701685497,"~/webgit/catalogue/Dockerfile"
+'1  1  0  ~/webgit/catalogue/Dockerfile_old
+|4,49,1,0,1701685148,"~/webgit/catalogue/Dockerfile_old"
+'2  188  0  ~/webgit/catalogue/server.js
+|4,50,188,0,1701685117,"~/webgit/catalogue/server.js"
+'3  3  0  ~/web/.gitignore
+|4,51,3,0,1701681498,"~/web/.gitignore"
+'4  4  0  ~/web/Dockerfile
+|4,52,4,0,1701681361,"~/web/Dockerfile"
+'5  3  11  ~/web/Dockerfile
+|4,53,3,11,1701680909,"~/web/Dockerfile"
+'6  3  11  ~/web/Dockerfile
+|4,54,3,11,1701680909,"~/web/Dockerfile"
+'7  2  55  ~/.git/config
+|4,55,2,55,1701678193,"~/.git/config"
+'8  7  55  ~/dockerr/.git/config
+|4,56,7,55,1701678088,"~/dockerr/.git/config"
+'9  7  52  ~/dockerr/.git/config
+|4,57,7,52,1701677619,"~/dockerr/.git/config"
 
 # Jumplist (newest first):
+-'  13  25  ~/webgit/catalogue/Dockerfile
+|4,39,13,25,1701685497,"~/webgit/catalogue/Dockerfile"
+-'  1  0  ~/webgit/catalogue/Dockerfile
+|4,39,1,0,1701685155,"~/webgit/catalogue/Dockerfile"
+-'  1  0  ~/webgit/catalogue/Dockerfile_old
+|4,39,1,0,1701685148,"~/webgit/catalogue/Dockerfile_old"
+-'  1  0  ~/webgit/catalogue/Dockerfile_old
+|4,39,1,0,1701685148,"~/webgit/catalogue/Dockerfile_old"
+-'  188  0  ~/webgit/catalogue/server.js
+|4,39,188,0,1701685117,"~/webgit/catalogue/server.js"
+-'  188  0  ~/webgit/catalogue/server.js
+|4,39,188,0,1701685117,"~/webgit/catalogue/server.js"
+-'  188  0  ~/webgit/catalogue/server.js
+|4,39,188,0,1701685117,"~/webgit/catalogue/server.js"
+-'  188  0  ~/webgit/catalogue/server.js
+|4,39,188,0,1701685117,"~/webgit/catalogue/server.js"
+-'  1  0  ~/webgit/catalogue/server.js
+|4,39,1,0,1701685072,"~/webgit/catalogue/server.js"
+-'  1  0  ~/webgit/catalogue/server.js
+|4,39,1,0,1701685072,"~/webgit/catalogue/server.js"
+-'  1  0  ~/webgit/catalogue/server.js
+|4,39,1,0,1701685072,"~/webgit/catalogue/server.js"
+-'  1  0  ~/webgit/catalogue/server.js
+|4,39,1,0,1701685072,"~/webgit/catalogue/server.js"
 -'  3  0  ~/web/.gitignore
 |4,39,3,0,1701681498,"~/web/.gitignore"
+-'  3  0  ~/web/.gitignore
+|4,39,3,0,1701681498,"~/web/.gitignore"
+-'  3  0  ~/web/.gitignore
+|4,39,3,0,1701681498,"~/web/.gitignore"
+-'  3  0  ~/web/.gitignore
+|4,39,3,0,1701681498,"~/web/.gitignore"
+-'  3  0  ~/web/.gitignore
+|4,39,3,0,1701681498,"~/web/.gitignore"
+-'  3  0  ~/web/.gitignore
+|4,39,3,0,1701681498,"~/web/.gitignore"
+-'  3  0  ~/web/.gitignore
+|4,39,3,0,1701681498,"~/web/.gitignore"
+-'  3  0  ~/web/.gitignore
+|4,39,3,0,1701681498,"~/web/.gitignore"
+-'  1  0  ~/web/.gitignore
+|4,39,1,0,1701681479,"~/web/.gitignore"
+-'  1  0  ~/web/.gitignore
+|4,39,1,0,1701681479,"~/web/.gitignore"
+-'  1  0  ~/web/.gitignore
+|4,39,1,0,1701681479,"~/web/.gitignore"
+-'  1  0  ~/web/.gitignore
+|4,39,1,0,1701681479,"~/web/.gitignore"
+-'  1  0  ~/web/.gitignore
+|4,39,1,0,1701681479,"~/web/.gitignore"
+-'  1  0  ~/web/.gitignore
+|4,39,1,0,1701681479,"~/web/.gitignore"
+-'  1  0  ~/web/.gitignore
+|4,39,1,0,1701681479,"~/web/.gitignore"
 -'  1  0  ~/web/.gitignore
 |4,39,1,0,1701681479,"~/web/.gitignore"
 -'  4  0  ~/web/Dockerfile
 |4,39,4,0,1701681361,"~/web/Dockerfile"
 -'  4  0  ~/web/Dockerfile
 |4,39,4,0,1701681361,"~/web/Dockerfile"
+-'  4  0  ~/web/Dockerfile
+|4,39,4,0,1701681361,"~/web/Dockerfile"
+-'  4  0  ~/web/Dockerfile
+|4,39,4,0,1701681361,"~/web/Dockerfile"
+-'  4  0  ~/web/Dockerfile
+|4,39,4,0,1701681361,"~/web/Dockerfile"
+-'  4  0  ~/web/Dockerfile
+|4,39,4,0,1701681361,"~/web/Dockerfile"
+-'  4  0  ~/web/Dockerfile
+|4,39,4,0,1701681361,"~/web/Dockerfile"
+-'  4  0  ~/web/Dockerfile
+|4,39,4,0,1701681361,"~/web/Dockerfile"
+-'  4  0  ~/web/Dockerfile
+|4,39,4,0,1701681361,"~/web/Dockerfile"
+-'  4  0  ~/web/Dockerfile
+|4,39,4,0,1701681361,"~/web/Dockerfile"
+-'  4  0  ~/web/Dockerfile
+|4,39,4,0,1701681361,"~/web/Dockerfile"
+-'  4  0  ~/web/Dockerfile
+|4,39,4,0,1701681361,"~/web/Dockerfile"
+-'  4  0  ~/web/Dockerfile
+|4,39,4,0,1701681361,"~/web/Dockerfile"
+-'  4  0  ~/web/Dockerfile
+|4,39,4,0,1701681361,"~/web/Dockerfile"
+-'  4  0  ~/web/Dockerfile
+|4,39,4,0,1701681361,"~/web/Dockerfile"
+-'  4  0  ~/web/Dockerfile
+|4,39,4,0,1701681361,"~/web/Dockerfile"
 -'  3  11  ~/web/Dockerfile
 |4,39,3,11,1701681246,"~/web/Dockerfile"
 -'  3  11  ~/web/Dockerfile
 |4,39,3,11,1701681246,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701681246,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701681246,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701681246,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701681246,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701681246,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701681246,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701681246,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701681246,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701681246,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701681246,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701681246,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701681246,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701681246,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701681246,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701680909,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701680909,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701680909,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701680909,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701680909,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701680909,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701680909,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701680909,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701680909,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701680909,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701680909,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701680909,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701680909,"~/web/Dockerfile"
+-'  3  11  ~/web/Dockerfile
+|4,39,3,11,1701680909,"~/web/Dockerfile"
 -'  3  11  ~/web/Dockerfile
 |4,39,3,11,1701680909,"~/web/Dockerfile"
 -'  3  11  ~/web/Dockerfile
@@ -74,184 +212,65 @@
 |4,39,1,0,1701680745,"~/web/Dockerfile"
 -'  1  0  ~/web/Dockerfile
 |4,39,1,0,1701680745,"~/web/Dockerfile"
--'  2  55  ~/.git/config
-|4,39,2,55,1701678193,"~/.git/config"
--'  2  55  ~/.git/config
-|4,39,2,55,1701678193,"~/.git/config"
--'  2  55  ~/.git/config
-|4,39,2,55,1701678193,"~/.git/config"
--'  2  55  ~/.git/config
-|4,39,2,55,1701678193,"~/.git/config"
--'  2  55  ~/.git/config
-|4,39,2,55,1701678193,"~/.git/config"
--'  2  55  ~/.git/config
-|4,39,2,55,1701678193,"~/.git/config"
--'  2  55  ~/.git/config
-|4,39,2,55,1701678193,"~/.git/config"
--'  2  55  ~/.git/config
-|4,39,2,55,1701678193,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1701678167,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1701678167,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1701678167,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1701678167,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1701678167,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1701678167,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1701678167,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1701678167,"~/.git/config"
--'  7  55  ~/dockerr/.git/config
-|4,39,7,55,1701678088,"~/dockerr/.git/config"
--'  7  55  ~/dockerr/.git/config
-|4,39,7,55,1701678088,"~/dockerr/.git/config"
--'  7  55  ~/dockerr/.git/config
-|4,39,7,55,1701678088,"~/dockerr/.git/config"
--'  7  55  ~/dockerr/.git/config
-|4,39,7,55,1701678088,"~/dockerr/.git/config"
--'  7  55  ~/dockerr/.git/config
-|4,39,7,55,1701678088,"~/dockerr/.git/config"
--'  7  55  ~/dockerr/.git/config
-|4,39,7,55,1701678088,"~/dockerr/.git/config"
--'  7  55  ~/dockerr/.git/config
-|4,39,7,55,1701678088,"~/dockerr/.git/config"
--'  7  55  ~/dockerr/.git/config
-|4,39,7,55,1701678088,"~/dockerr/.git/config"
--'  7  55  ~/dockerr/.git/config
-|4,39,7,55,1701678088,"~/dockerr/.git/config"
--'  7  55  ~/dockerr/.git/config
-|4,39,7,55,1701678088,"~/dockerr/.git/config"
--'  7  55  ~/dockerr/.git/config
-|4,39,7,55,1701678088,"~/dockerr/.git/config"
--'  7  55  ~/dockerr/.git/config
-|4,39,7,55,1701678088,"~/dockerr/.git/config"
--'  7  55  ~/dockerr/.git/config
-|4,39,7,55,1701678088,"~/dockerr/.git/config"
--'  7  55  ~/dockerr/.git/config
-|4,39,7,55,1701678088,"~/dockerr/.git/config"
--'  7  55  ~/dockerr/.git/config
-|4,39,7,55,1701678088,"~/dockerr/.git/config"
--'  7  55  ~/dockerr/.git/config
-|4,39,7,55,1701678088,"~/dockerr/.git/config"
--'  7  52  ~/dockerr/.git/config
-|4,39,7,52,1701677619,"~/dockerr/.git/config"
--'  7  52  ~/dockerr/.git/config
-|4,39,7,52,1701677619,"~/dockerr/.git/config"
--'  7  52  ~/dockerr/.git/config
-|4,39,7,52,1701677619,"~/dockerr/.git/config"
--'  7  52  ~/dockerr/.git/config
-|4,39,7,52,1701677619,"~/dockerr/.git/config"
--'  7  52  ~/dockerr/.git/config
-|4,39,7,52,1701677619,"~/dockerr/.git/config"
--'  7  52  ~/dockerr/.git/config
-|4,39,7,52,1701677619,"~/dockerr/.git/config"
--'  7  52  ~/dockerr/.git/config
-|4,39,7,52,1701677619,"~/dockerr/.git/config"
--'  7  52  ~/dockerr/.git/config
-|4,39,7,52,1701677619,"~/dockerr/.git/config"
--'  7  52  ~/dockerr/.git/config
-|4,39,7,52,1701677619,"~/dockerr/.git/config"
--'  7  52  ~/dockerr/.git/config
-|4,39,7,52,1701677619,"~/dockerr/.git/config"
--'  7  52  ~/dockerr/.git/config
-|4,39,7,52,1701677619,"~/dockerr/.git/config"
--'  7  52  ~/dockerr/.git/config
-|4,39,7,52,1701677619,"~/dockerr/.git/config"
--'  7  52  ~/dockerr/.git/config
-|4,39,7,52,1701677619,"~/dockerr/.git/config"
--'  7  52  ~/dockerr/.git/config
-|4,39,7,52,1701677619,"~/dockerr/.git/config"
--'  7  52  ~/dockerr/.git/config
-|4,39,7,52,1701677619,"~/dockerr/.git/config"
--'  7  52  ~/dockerr/.git/config
-|4,39,7,52,1701677619,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  1  0  ~/dockerr/.git/config
-|4,39,1,0,1701677561,"~/dockerr/.git/config"
--'  7  25  ~/.git/config
-|4,39,7,25,1701676771,"~/.git/config"
--'  7  25  ~/.git/config
-|4,39,7,25,1701676771,"~/.git/config"
--'  7  25  ~/.git/config
-|4,39,7,25,1701676771,"~/.git/config"
--'  7  25  ~/.git/config
-|4,39,7,25,1701676771,"~/.git/config"
--'  7  25  ~/.git/config
-|4,39,7,25,1701676771,"~/.git/config"
--'  7  25  ~/.git/config
-|4,39,7,25,1701676771,"~/.git/config"
--'  7  25  ~/.git/config
-|4,39,7,25,1701676771,"~/.git/config"
--'  7  25  ~/.git/config
-|4,39,7,25,1701676771,"~/.git/config"
+-'  1  0  ~/web/Dockerfile
+|4,39,1,0,1701680745,"~/web/Dockerfile"
+-'  1  0  ~/web/Dockerfile
+|4,39,1,0,1701680745,"~/web/Dockerfile"
+-'  1  0  ~/web/Dockerfile
+|4,39,1,0,1701680745,"~/web/Dockerfile"
+-'  1  0  ~/web/Dockerfile
+|4,39,1,0,1701680745,"~/web/Dockerfile"
+-'  1  0  ~/web/Dockerfile
+|4,39,1,0,1701680745,"~/web/Dockerfile"
+-'  1  0  ~/web/Dockerfile
+|4,39,1,0,1701680745,"~/web/Dockerfile"
+-'  1  0  ~/web/Dockerfile
+|4,39,1,0,1701680745,"~/web/Dockerfile"
+-'  1  0  ~/web/Dockerfile
+|4,39,1,0,1701680745,"~/web/Dockerfile"
+-'  1  0  ~/web/Dockerfile
+|4,39,1,0,1701680745,"~/web/Dockerfile"
+-'  1  0  ~/web/Dockerfile
+|4,39,1,0,1701680745,"~/web/Dockerfile"
+-'  1  0  ~/web/Dockerfile
+|4,39,1,0,1701680745,"~/web/Dockerfile"
+-'  1  0  ~/web/Dockerfile
+|4,39,1,0,1701680745,"~/web/Dockerfile"
+-'  1  0  ~/web/Dockerfile
+|4,39,1,0,1701680745,"~/web/Dockerfile"
+-'  1  0  ~/web/Dockerfile
+|4,39,1,0,1701680745,"~/web/Dockerfile"
+-'  1  0  ~/web/Dockerfile
+|4,39,1,0,1701680745,"~/web/Dockerfile"
+-'  1  0  ~/web/Dockerfile
+|4,39,1,0,1701680745,"~/web/Dockerfile"
+-'  1  0  ~/web/Dockerfile
+|4,39,1,0,1701680745,"~/web/Dockerfile"
+-'  1  0  ~/web/Dockerfile
+|4,39,1,0,1701680745,"~/web/Dockerfile"
+-'  1  0  ~/web/Dockerfile
+|4,39,1,0,1701680745,"~/web/Dockerfile"
+-'  1  0  ~/web/Dockerfile
+|4,39,1,0,1701680745,"~/web/Dockerfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/webgit/catalogue/Dockerfile
+	*	1701685485	0
+	"	13	25
+	^	13	26
+	.	13	25
+	+	11	14
+	+	7	17
+	+	13	25
+
+> ~/webgit/catalogue/Dockerfile_old
+	*	1701685145	0
+	"	1	0
+
+> ~/webgit/catalogue/server.js
+	*	1701685115	0
+	"	188	0
 
 > ~/web/.gitignore
 	*	1701681496	0
